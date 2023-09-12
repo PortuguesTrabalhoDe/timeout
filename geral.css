@@ -1,0 +1,44 @@
+body{
+	background: black;
+}
+
+section{
+	border: 1px solid white;
+	width: 180px;
+	background-color: grey;
+}
+
+section img{
+	width: 180px;
+}
+
+section p{
+	color: white;
+	text-align: center;
+}
+
+table{
+	width: 400px;
+	font-size: 30px;
+	margin-top: 80px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 80px;
+}
+
+section.trevor{
+	float: left;
+	border: 1px solid white;
+	width: 180px;
+	background-color: grey;
+}
+
+section.josh{
+	float: left;
+	border: 1px solid white;
+	width: 180px;
+	background-color: grey;
+}
